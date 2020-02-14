@@ -1,10 +1,13 @@
 
-const alterFile = require('./file');
+
+// const alterFile = require('./file');
 
 describe('file data',()=>{
-    it('can read',()=>{
+  it('can read',()=>{
 
-        let file = `${__dirname}/data.json`;
+    // let file = `${__dirname}/data.json`;
 
-    })
-})
+    // alterFile(file);
+
+  });
+});

@@ -1,4 +1,4 @@
-const alterFile = require('./file.js')
+const alterFile = require('./file.js');
 
 
 
